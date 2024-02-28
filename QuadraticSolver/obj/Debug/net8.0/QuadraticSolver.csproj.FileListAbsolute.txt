@@ -1,0 +1,14 @@
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.exe
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.deps.json
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.runtimeconfig.json
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.dll
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.pdb
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.AssemblyInfoInputs.cache
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.AssemblyInfo.cs
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.csproj.CoreCompileInputs.cache
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.dll
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\refint\QuadraticSolver.dll
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.pdb
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.genruntimeconfig.cache
+C:\Users\benesmartin\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\net8.0\ref\QuadraticSolver.dll
